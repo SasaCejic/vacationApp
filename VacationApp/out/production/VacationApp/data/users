@@ -1,0 +1,58 @@
+{
+  "admins": [
+    {
+      "adminId": 1,
+      "firstName": "Petar",
+      "lastName": "Petrovic",
+      "passHash": 106557840
+    },
+    {
+      "adminId": 2,
+      "firstName": "Dragan",
+      "lastName": "Jovanovic",
+      "passHash": -1323778975
+    }
+  ],
+  "employees": [
+    {
+      "employeeId": 1,
+      "firstName": "Ana",
+      "lastName": "Pesic",
+      "position": "front-end developer",
+      "contractType": "permanent",
+      "startDate": "2018-02-11",
+      "passHash": 96724,
+      "pastYearDays": 3
+    },
+    {
+      "employeeId": 2,
+      "firstName": "Ognjen",
+      "lastName": "Radic",
+      "position": "back-end developer",
+      "contractType": "temporary",
+      "startDate": "2020-11-03",
+      "passHash": -1018626755,
+      "pastYearDays": 0
+    },
+    {
+      "employeeId": 3,
+      "firstName": "Andjela",
+      "lastName": "Ostojic",
+      "position": "HR",
+      "contractType": "permanent",
+      "startDate": "2020-07-15",
+      "passHash": -861639097,
+      "pastYearDays": 15
+    },
+    {
+      "employeeId": 4,
+      "firstName": "Dragan",
+      "lastName": "Maric",
+      "position": "back-end developer",
+      "contractType": "temporary",
+      "startDate": "2020-08-20",
+      "passHash": -1323778975,
+      "pastYearDays": 0
+    }
+  ]
+}
